@@ -4,8 +4,9 @@
 /* Headerbar */
 #nav-bar {
 	background: var(--gnome-headerbar-background) !important;
-	border: 0 !important;
-	padding: 6px 3px !important;
+	margin: 3px 0 !important;
+	/* border: 0 !important; */
+	padding: 3px 3px !important;
 }
 
 /* Add private window headerbar indicator */
